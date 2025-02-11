@@ -1,0 +1,11 @@
+usernames:
+  allyourlife@hotmail.com:
+    name: dirktest1
+    password: $2b$12$rdPC0EY9I9pdLomrG0HBv.QyHYhpwavVIeJwdWV1bMLJ5er203VbS
+    verification_code: '-32275'
+    verified: false
+  dirk.wonhoefer@ai-engineering.ai:
+    name: dirktest2
+    password: $2b$12$WLbxXJSZ7i2HIaXbYsvkmeKfllWaBndVO/NErNrYu/SC2cQTDAlHm
+    verification_code: '-77361'
+    verified: true
