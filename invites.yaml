@@ -1,0 +1,9 @@
+# List of valid invite codes and their status
+# Each code can only be used once
+invite_codes:
+  BETA001: {used: false, created_by: "admin"}
+  BETA002: {used: false, created_by: "admin"}
+  BETA003: {used: false, created_by: "admin"}
+  BETA004: {used: false, created_by: "admin"}
+  BETA005: {used: false, created_by: "admin"}
+  # Add more codes as needed 
